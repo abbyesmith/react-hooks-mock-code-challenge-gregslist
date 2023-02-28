@@ -21,7 +21,7 @@ find in the [Core Deliverables](#Core-Deliverables) section.
 
 1. Run `npm install` in your terminal.
 2. Run `npm run server`. This will run your backend on port `6001`.
-3. In a new terminal, run `npm start`.
+3. In a new terminal, run `pm stnart`.
 
 Make sure to open [http://localhost:6001/listings](http://localhost:6001/listings)
 in the browser to verify that your backend is working before you proceed!
